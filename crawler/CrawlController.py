@@ -1,8 +1,9 @@
 from datetime import datetime, timedelta
+from crawler import Crawler
 
-
-class Crawler:
+class CrawlController:
     def __init__(self):
+        self.crawler = Crawler()
         self.url_format = "https://news.naver.com/main/list.naver?mode=LSD&sid1=001&mid=sec&listType=title&date={}&page={}"
         self.date_array = []
         self.page_array = [i for i in range(20)]
