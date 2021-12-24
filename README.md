@@ -1,6 +1,6 @@
 # 📑 NewsTitleMaker
-🌟 This is News title maker which is based news contents by abstractive approach (Team Not Easy).    
-🌟 추상적 요약 방식을 활용한 내용 기반 뉴스 제목 생성 모델 개발 (Team Not Easy).    <br></br>
+🌟 <i>This is News title maker which is based news contents by abstractive approach (Team Not Easy).</i>    
+🌟 <i>추상적 요약 방식을 활용한 내용 기반 뉴스 제목 생성 모델 개발 (Team Not Easy).</i>    <br></br>
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)  ![Tensorflow](https://img.shields.io/badge/Tensorflow-1.5.1-orange.svg)
 <br></br>
