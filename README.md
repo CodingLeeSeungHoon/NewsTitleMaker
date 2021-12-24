@@ -11,7 +11,7 @@
 ># 💡 Model Process
 <br></br>
 <p align="center">
-  <img src="https://github.com/CodingLeeSeungHoon/StockPricePredictor/blob/main/process.png" />
+  <img src="https://github.com/CodingLeeSeungHoon/NewsTitleMaker/blob/main/process.png" />
 </p>
 <br></br>
 
