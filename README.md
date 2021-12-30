@@ -8,21 +8,21 @@
 - Supervised Learning Based 모델
 <br></br>
 
-># 💡 Model Process
+>### 💡 Model Process
 <br></br>
 <p align="center">
   <img src="https://github.com/CodingLeeSeungHoon/NewsTitleMaker/blob/main/process.png" />
 </p>
 <br></br>
 
-># 📊 Intermediate results & Issues
+>### 📊 Intermediate results & Issues
 #### 1)    
 #### 2)    
 #### 3)    
 #### 4)   
 <br></br>
 
-># ⚙️ 개발 환경 (Develop Env.)
+>### ⚙️ 개발 환경 (Develop Env.)
 
 <details>
     <summary>🔎 IDE </summary>
